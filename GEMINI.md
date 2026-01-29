@@ -11,6 +11,7 @@ This project is a static-first web application built with **Astro.js**. It is de
 ## 3\. Development Environment
 
 This project is configured to run in a pre-built developer environment provided by Firebase Studio. The environment is defined in the `dev.nix` file and includes the following:
+jancok jaran pelerrr
 
 * **Runtime:** Node.js 20\.  
 * **Tools:** Git and VS Code.  
